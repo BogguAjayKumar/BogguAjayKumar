@@ -66,7 +66,7 @@
 - 💼 **LinkedIn:** [Boggu Ajay Kumar](https://www.linkedin.com/in/bajaykumar-10cyber20)
 - 🐦 **X / Twitter:** [@ajay_k20](https://x.com/ajay_k20)
 - 📝 **DEV Community:** [@bogguajaykumar](https://dev.to/bogguajaykumar)
-- ✉️ **Email:** `ajaykumar.boggu@example.com`
+- ✉️ **Email:** bogguajaykumar5@gmail.com
 
 ---
 *✨ "Stay hungry, stay curious, and keep learning."*
