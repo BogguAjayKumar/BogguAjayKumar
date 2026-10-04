@@ -1,5 +1,9 @@
 # Hi, I'm Ajay 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Ajay+%F0%9F%90%8B;Cybersecurity+%26+Systems+Engineering+%F0%9F%9B%A1%EF%B8%8F;B.Tech+3rd+Year+%40+KG+Reddy+College+(2024%E2%80%932028)+%F0%9F%8E%93;Goal%3A+Build+a+career+in+Cyber+Security+%F0%9F%9A%80" alt="Typing Header" />
+</div>
+
 > **B.Tech Student (2024–2028) @ KG Reddy College of Engineering and Technology**  
 > Learning Cybersecurity, Linux Internals, Networking, and Software Engineering from the ground up.
 
@@ -41,7 +45,7 @@
 - 📊 **[Car Price Analysis](https://github.com/BogguAjayKumar/Car-Price-Analysis-)**  
   *Data analysis & visualization project in Google Colab.* Performed Exploratory Data Analysis (EDA) on used-car datasets to determine key variables influencing market pricing.
 
-- 🎮 **[Rock Paper Scissors Python](https://github.com/BogguAjayKumar/first_project)**  
+- 🎮 **[Rock Paper Scissors Python](https://github.com/BogguAjayKumar/rock-paper-scissors-python)**  
   *Interactive Python CLI game.* Built to practice object/state handling, conditional logic, and user input validation in Python.
 
 ---
@@ -60,7 +64,9 @@
 - 🌐 **Portfolio Website:** [bogguajaykumar.github.io](https://bogguajaykumar.github.io)
 - 🐙 **GitHub:** [@BogguAjayKumar](https://github.com/BogguAjayKumar)
 - 💼 **LinkedIn:** [Boggu Ajay Kumar](https://www.linkedin.com/in/bajaykumar-10cyber20)
-- ✉️ **Email:** `ajaykumar.boggu@example.com` *(Replace with your email)*
+- 🐦 **X / Twitter:** [@ajay_k20](https://x.com/ajay_k20)
+- 📝 **DEV Community:** [@bogguajaykumar](https://dev.to/bogguajaykumar)
+- ✉️ **Email:** `ajaykumar.boggu@example.com`
 
 ---
 *✨ "Stay hungry, stay curious, and keep learning."*
