@@ -59,7 +59,7 @@
 
 - 🌐 **Portfolio Website:** [bogguajaykumar.github.io](https://bogguajaykumar.github.io)
 - 🐙 **GitHub:** [@BogguAjayKumar](https://github.com/BogguAjayKumar)
-- 💼 **LinkedIn:** [Ajay Kumar](https://linkedin.com/in/boggu-ajay-kumar) *(Add your LinkedIn link here)*
+- 💼 **LinkedIn:** [Boggu Ajay Kumar](https://www.linkedin.com/in/bajaykumar-10cyber20)
 - ✉️ **Email:** `ajaykumar.boggu@example.com` *(Replace with your email)*
 
 ---
