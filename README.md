@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎯 **Primary Focus:** Building a strong foundation in Cybersecurity, Linux System Architecture, and Networking.
 - 🎓 **Education:** B.Tech Student (3rd Year) in Computer Science / Engineering.
@@ -59,7 +59,7 @@
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 - 🌐 **Portfolio Website:** [bogguajaykumar.github.io](https://bogguajaykumar.github.io)
 - 🐙 **GitHub:** [@BogguAjayKumar](https://github.com/BogguAjayKumar)
