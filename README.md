@@ -1,7 +1,7 @@
 # Hi, I'm Ajay 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Ajay+%F0%9F%90%8B;Cybersecurity+%26+Systems+Engineering+%F0%9F%9B%A1%EF%B8%8F;Goal%3A+Build+a+career+in+Cyber+Security+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Ajay+%F0%9F%90%8B;Cybersecurity+%26+Systems+Engineering+%F0%9F%9B%A1%EF%B8%8F;Goal%3A+Build+a+career+in+Cyber+Security+%F0%9F%9A%80" alt="Typing Header" />
 </div>
 
 > **B.Tech Student (2024–2028) @ KG Reddy College of Engineering and Technology**  
