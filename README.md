@@ -6,11 +6,7 @@
     <i>KG Reddy College of Engineering and Technology, Hyderabad</i>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/BogguAjayKumar"><img src="https://img.shields.io/github/followers/BogguAjayKumar?label=Followers&style=flat-square&color=38bdf8&logo=github" alt="GitHub Followers" /></a>
-    <a href="https://bogguajaykumar.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-10b981?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/bajaykumar-10cyber20"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
+ 
 </div>
 
 ---
