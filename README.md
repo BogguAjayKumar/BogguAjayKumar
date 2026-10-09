@@ -129,36 +129,6 @@
 
 ---
 
-### 📊 Complete Repository Evaluation & Rating Matrix
-
-An objective technical evaluation across all repositories based on architectural depth, innovation, and practical execution:
-
-| # | Repository | Domain / Architecture | Rating | Tier | Highlights |
-|:---:|:---|:---|:---:|:---:|:---|
-| **1** | [**flavor-crush-showcase**](https://github.com/BogguAjayKumar/flavor-crush-showcase) | WebRTC P2P • Lossless Media • GIS • Games | **9.9 / 10** | 🏆 Apex | 500MB+ binary chunk streaming, disguised promo GPS satellite radar, 4-game multiplayer arena. |
-| **2** | [**ProSAFE-Showcase**](https://github.com/BogguAjayKumar/ProSAFE-Showcase) | Cybersecurity • ML Threat Modeling • SOC | **9.8 / 10** | 🏆 Apex | Predictive threat forecasting, analyst fatigue modeling, and dynamic SOAR readiness metrics. |
-| **3** | [**DLS-Digital-Library-System--**](https://github.com/BogguAjayKumar/DLS-Digital-Library-System--) | Full-Stack Web • Hybrid Circulation | **8.9 / 10** | 💎 Core | Student portal, admin approval pipelines, physical inventory tracking, and digital PDF downloads. |
-| **4** | [**CSEH-workshop1**](https://github.com/BogguAjayKumar/CSEH-workshop1) | Cybersecurity Education • Networking • Kali | **8.8 / 10** | 💎 Core | Hands-on workshop lab covering packet analysis, Wi-Fi security, and live penetration tooling. |
-| **5** | [**BogguAjayKumar.github.io**](https://github.com/BogguAjayKumar/BogguAjayKumar.github.io) | Portfolio Website • Web Performance | **8.5 / 10** | ⚡ Proven | Modern developer portfolio showcasing technical architecture, project walk-throughs, and contact channels. |
-| **6** | [**Car-Price-Analysis-**](https://github.com/BogguAjayKumar/Car-Price-Analysis-) | Data Science • Exploratory Data Analysis | **8.2 / 10** | ⚡ Proven | Statistical data visualization in Google Colab evaluating multivariate factors impacting car valuation. |
-| **7** | [**ikarus**](https://github.com/BogguAjayKumar/ikarus) | Front-End Engineering • Web Application | **7.8 / 10** | 🔨 Utility | Interactive front-end application exploring modular JavaScript logic and dynamic UI components. |
-| **8** | [**rock-paper-scissors-python**](https://github.com/BogguAjayKumar/rock-paper-scissors-python) | Scripting • Object-Oriented Fundamentals | **7.5 / 10** | 🔨 Utility | Clean Python CLI implementation practicing object state handling, input sanitization, and game loops. |
-
----
-
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogguAjayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=e94682&text_color=cbd5e1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogguAjayKumar&theme=tokyonight&hide_border=true&background=090d16&stroke=38bdf8&ring=e94682&fire=e94682&currStreakNum=38bdf8&sideNums=cbd5e1&dates=94a3b8" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogguAjayKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=cbd5e1" height="145" alt="Top Languages" />
-</div>
-
----
-
 ### 📌 Engineering Milestones & Future Goals
 
 - [x] Architected lossless P2P 500MB+ WebRTC binary chunk streaming engine with backpressure control.
