@@ -20,7 +20,7 @@
 
 - 🎯 **Primary Focus:** Advanced Cybersecurity, Proactive Threat Modeling, Linux Kernel Internals, and Distributed Peer-to-Peer (P2P) Systems.
 - 🔬 **Engineering Philosophy:** Building high-performance, privacy-first software with zero cloud footprint and hardware-level efficiency.
-- 🛡️ **Community Role:** Technical Workshop Host & Cybersecurity Mentor at **CSEH Club**, teaching network security, Wi-Fi protocols, and Linux penetration tooling.
+- 🛡️ **Community Role:** Technical Workshop Host & Vice President of **CSEH Club**, teaching network security, Wi-Fi protocols, and Linux penetration tooling.
 - 💡 **Current Exploration:** Real-time WebRTC binary streaming backpressure dynamics, SOC alert fatigue simulation, and OS process lifecycle instrumentation.
 
 ---
