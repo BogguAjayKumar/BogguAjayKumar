@@ -63,7 +63,7 @@
         <code>Full-Duplex Voice</code> • <code>Multimodal Vision</code> • <code>Multi-LLM Pooling</code> • <code>OS Automation</code>
       </div>
       <br>
-      Full-duplex multimodal AI assistant inspired by J.A.R.V.I.S., engineered with zero framework bloat:
+      Full-duplex multimodal AI assistant , engineered with zero framework bloat:
       <ul>
         <li><b>Barge-In Voice Synthesizer</b>: Real-time conversational interruption using Silero VAD, Faster-Whisper, and British Neural EdgeTTS.</li>
         <li><b>Screen & Camera Perception</b>: Live desktop inspection, code error diagnosis, active window monitoring, and webcam vision.</li>
