@@ -45,7 +45,8 @@
 [  OK  ] 0.12-0.13 Linux Kernel Subsystems, systemd PID 1, Target Units, Services & Daemons
 [  OK  ] 0.14-0.15 Process Management, fork()/execve(), Virtual Memory & CFS CPU Scheduling
 [  OK  ] 0.16-0.18 Socket Programming, SCTP DataChannels & End-to-End Cryptographic Handshakes
-[ >>>  ] 0.19+     Advanced Security Operations: Proactive SOC Threat Forecasting & ML Defense (Active)
+[  OK  ] 0.19-0.20 Advanced Security Operations: Proactive SOC Threat Forecasting & ML Defense
+[ >>>  ] 0.21+     Multimodal Autonomous Systems: Full-Duplex Voice & Real-Time Computer Vision (Active)
 ```
 
 ---
@@ -56,8 +57,42 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
+        <h3>🎙️ <a href="https://github.com/BogguAjayKumar/HINA-Showcase">HINA — Multimodal Voice & OS Agent</a></h3>
+        <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-8b5cf6?style=flat-square" alt="Score 9.9/10" />
+        <br>
+        <code>Full-Duplex Voice</code> • <code>Multimodal Vision</code> • <code>Multi-LLM Pooling</code> • <code>OS Automation</code>
+      </div>
+      <br>
+      Full-duplex multimodal AI assistant inspired by J.A.R.V.I.S., engineered with zero framework bloat:
+      <ul>
+        <li><b>Barge-In Voice Synthesizer</b>: Real-time conversational interruption using Silero VAD, Faster-Whisper, and British Neural EdgeTTS.</li>
+        <li><b>Screen & Camera Perception</b>: Live desktop inspection, code error diagnosis, active window monitoring, and webcam vision.</li>
+        <li><b>Multi-LLM Resilience Pool</b>: Runs 100% locally on GPU via Ollama, with auto-failover & key pooling across Gemini, Groq, Claude, OpenAI, and DeepSeek.</li>
+        <li><b>Autonomous Desktop & IoT</b>: Sandboxed PowerShell execution, deep app indexing, SQLite persistent memory, and Home Assistant smart home control.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛡️ <a href="https://github.com/BogguAjayKumar/AegisXAI-Showcase">AegisXAI — Explainable AI for Security Decisions</a></h3>
+        <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ef4444?style=flat-square" alt="Score 9.9/10" />
+        <br>
+        <code>Explainable AI (XAI)</code> • <code>SHAP Engine</code> • <code>Network IDS/IPS</code> • <code>Threat Synthesis</code>
+      </div>
+      <br>
+      Explainable AI platform for enterprise network intrusion detection and security operations:
+      <ul>
+        <li><b>SHAP Waterfall Decomposition</b>: Sub-12ms feature-level attribution pinpointing exact malicious vs. benign drivers behind threat classifications.</li>
+        <li><b>Interactive What-If Simulation</b>: Dynamic decision boundary lab testing counterfactual parameter tweaks and mitigating false positives.</li>
+        <li><b>Automated Rule Synthesizer</b>: One-click export converting mathematical threat signatures directly into Snort, Suricata, and Linux iptables rules.</li>
+        <li><b>10-Vector Threat Intelligence</b>: Comprehensive defense modeling covering DoS SYN floods, DNS tunneling, web shell RCE, and ransomware C2 beacons.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
         <h3>🍬 <a href="https://github.com/BogguAjayKumar/flavor-crush-showcase">Flavor Crush — Arcade & P2P Engine</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-e94682?style=flat-square" alt="Score 9.9/10" />
+        <img src="https://img.shields.io/badge/Score-9.8%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-e94682?style=flat-square" alt="Score 9.8/10" />
         <br>
         <code>WebRTC P2P</code> • <code>C++20</code> • <code>Capacitor Android</code> • <code>GIS Satellite</code>
       </div>
@@ -72,8 +107,8 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛡️ <a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.8%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-38bdf8?style=flat-square" alt="Score 9.8/10" />
+        <h3>📊 <a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
+        <img src="https://img.shields.io/badge/Score-9.7%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-38bdf8?style=flat-square" alt="Score 9.7/10" />
         <br>
         <code>Python</code> • <code>Machine Learning</code> • <code>SOC Metrics</code> • <code>SOAR Dynamics</code>
       </div>
@@ -87,40 +122,6 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📚 <a href="https://github.com/BogguAjayKumar/DLS-Digital-Library-System--">Digital Library System (DLS)</a></h3>
-        <img src="https://img.shields.io/badge/Score-8.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-10b981?style=flat-square" alt="Score 8.9/10" />
-        <br>
-        <code>JavaScript</code> • <code>HTML5/CSS3</code> • <code>Database Workflows</code> • <code>Full-Stack</code>
-      </div>
-      <br>
-      Hybrid digital and physical library automation platform engineered for campus operations:
-      <ul>
-        <li><b>Dual Circulation Engine</b>: Seamlessly manages physical book checkout requests and direct PDF digital downloads.</li>
-        <li><b>Role-Based Workflows</b>: Multi-tier privilege controls for students, faculty, and head librarians.</li>
-        <li><b>Automated Catalog Auditing</b>: Real-time inventory tracking, overdue notice dispatch, and request queues.</li>
-        <li><b>Mobile-First Interface</b>: Clean, responsive user experience tailored for academic environments.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>⚔️ <a href="https://github.com/BogguAjayKumar/CSEH-workshop1">CSEH Club Security Workshop</a></h3>
-        <img src="https://img.shields.io/badge/Score-8.8%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f59e0b?style=flat-square" alt="Score 8.8/10" />
-        <br>
-        <code>Kali Linux</code> • <code>Wi-Fi Protocols</code> • <code>Networking</code> • <code>Cyber Defense</code>
-      </div>
-      <br>
-      Hands-on technical workshop series authored for the college cybersecurity and ethical hacking club:
-      <ul>
-        <li><b>Network Defense Fundamentals</b>: OSI reference model breakdowns, TCP/IP handshake tracing, and packet dissection.</li>
-        <li><b>Wi-Fi Protocol Analysis</b>: Deep dive into 802.11 frames, beaconing, handshake captures, and wireless encryption standards.</li>
-        <li><b>Live Kali Demonstration Labs</b>: Interactive terminal labs guiding students through essential penetration and audit tooling.</li>
-        <li><b>Mentorship Artifacts</b>: Complete reference cheatsheets, architecture diagrams, and command manuals.</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -130,6 +131,8 @@
 - [x] Architected lossless P2P 500MB+ WebRTC binary chunk streaming engine with backpressure control.
 - [x] Developed disguised 4-digit promo voucher GPS live location radar with real-time satellite imagery.
 - [x] Engineered 4-game real-time 2-player multiplayer arena with deterministic AI fallbacks.
+- [x] Built full-duplex multimodal AI assistant (HINA) with barge-in voice, screen perception & multi-LLM pooling.
+- [x] Engineered Explainable AI IDS (AegisXAI) with SHAP decomposition, what-if counterfactuals & Snort/iptables rule synthesis.
 - [ ] Implement automated packet capture (pcap) inspection tool in Python and C++ for network forensics.
 - [ ] Publish comprehensive writeups on Linux kernel memory management and process namespaces.
 - [ ] Attain advanced offensive security certifications and contribute to open-source threat intelligence.
