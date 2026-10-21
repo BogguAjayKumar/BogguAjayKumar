@@ -102,7 +102,7 @@
         <li><b>3-in-1 Solo Arcade</b>: 54-level cascading Match-3, Hamiltonian Flow Free puzzle solver, and 60fps canvas Fruit Slice.</li>
         <li><b>4-Game 2-Player Arena</b>: Live turn-based WebRTC multiplayer (9x9 Tic Tac Toe, Snake and Ladder, Ludo, Battleship).</li>
         <li><b>Lossless Media Pipe</b>: Streams <b>10MB–500MB+</b> original files bit-for-bit with SCTP flow control and device downloads.</li>
-        <li><b>Disguised GPS Radar</b>: 4-digit promo voucher gate unlocking live satellite imagery (Google Hybrid/Esri) and real-time Haversine distance tracking.</li>
+        <li><b>Disguised GPS Radar</b>: Symmetrical On-Demand Shopkeeper/Customer live tracking (0% idle battery drain), 15s watchdog fail-safe, Google Hybrid/Esri satellite imagery, and real-time Haversine metrics.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
