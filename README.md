@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Boggu+Ajay+Kumar+%F0%9F%90%8B;Cybersecurity+%26+Systems+Engineering+%F0%9F%9B%A1%EF%B8%8F;P2P+WebRTC+%26+Distributed+Systems+Architect+%E2%9A%A1;Linux+Kernel+Internals+%26+Threat+Forecasting+%F0%9F%90%A7" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Boggu+Ajay+Kumar;Cybersecurity+%26+Systems+Engineering;P2P+WebRTC+%26+Distributed+Systems+Architect;Linux+Kernel+Internals+%26+Threat+Forecasting" alt="Typing Header" />
   
   <p align="center">
     <b>B.Tech in Computer Science & Engineering (2024–2028)</b><br>
@@ -11,16 +11,16 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
-- 🎯 **Primary Focus:** Advanced Cybersecurity, Proactive Threat Modeling, Linux Kernel Internals, and Distributed Peer-to-Peer (P2P) Systems.
-- 🔬 **Engineering Philosophy:** Building high-performance, privacy-first software with zero cloud footprint and hardware-level efficiency.
-- 🛡️ **Community Role:** Technical Workshop Host & Vice President of **CSEH Club**, teaching network security, Wi-Fi protocols, and Linux penetration tooling.
-- 💡 **Current Exploration:** Real-time WebRTC binary streaming backpressure dynamics, SOC alert fatigue simulation, and OS process lifecycle instrumentation.
+- **Primary Focus:** Advanced Cybersecurity, Proactive Threat Modeling, Linux Kernel Internals, and Distributed Peer-to-Peer (P2P) Systems.
+- **Engineering Philosophy:** Building high-performance, privacy-first software with zero cloud footprint and hardware-level efficiency.
+- **Community Role:** Technical Workshop Host & Vice President of **CSEH Club**, teaching network security, Wi-Fi protocols, and Linux penetration tooling.
+- **Current Exploration:** Real-time WebRTC binary streaming backpressure dynamics, SOC alert fatigue simulation, and OS process lifecycle instrumentation.
 
 ---
 
-### 🛠️ Technical Toolbelt & Architecture Stack
+### Technical Toolbelt & Architecture Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛡️ Systems Engineering & Linux Kernel Mastery Roadmap
+### Systems Engineering & Linux Kernel Mastery Roadmap
 
 ```
 [  OK  ] 0.01-0.04 Operating System Architecture, GNU/Linux Distributions & Kali Hardening
@@ -51,13 +51,13 @@
 
 ---
 
-### 🏆 Top 4 Flagship Repositories
+### Top 4 Flagship Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🎙️ <a href="https://github.com/BogguAjayKumar/HINA-Showcase">HINA — Multimodal Voice & OS Agent</a></h3>
+        <h3><a href="https://github.com/BogguAjayKumar/HINA-Showcase">HINA — Multimodal Voice & OS Agent</a></h3>
         <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-8b5cf6?style=flat-square" alt="Score 9.9/10" />
         <br>
         <code>Full-Duplex Voice</code> • <code>Multimodal Vision</code> • <code>Multi-LLM Pooling</code> • <code>OS Automation</code>
@@ -73,7 +73,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛡️ <a href="https://github.com/BogguAjayKumar/AegisXAI-Showcase">AegisXAI — Explainable AI for Security Decisions</a></h3>
+        <h3><a href="https://github.com/BogguAjayKumar/AegisXAI-Showcase">AegisXAI — Explainable AI for Security Decisions</a></h3>
         <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ef4444?style=flat-square" alt="Score 9.9/10" />
         <br>
         <code>Explainable AI (XAI)</code> • <code>SHAP Engine</code> • <code>Network IDS/IPS</code> • <code>Threat Synthesis</code>
@@ -91,7 +91,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🍬 <a href="https://github.com/BogguAjayKumar/flavor-crush-showcase">Flavor Crush — Arcade & P2P Engine</a></h3>
+        <h3><a href="https://github.com/BogguAjayKumar/flavor-crush-showcase">Flavor Crush — Arcade & P2P Engine</a></h3>
         <img src="https://img.shields.io/badge/Score-9.8%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-e94682?style=flat-square" alt="Score 9.8/10" />
         <br>
         <code>WebRTC P2P</code> • <code>C++20</code> • <code>Capacitor Android</code> • <code>GIS Satellite</code>
@@ -107,7 +107,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>📊 <a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
+        <h3><a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
         <img src="https://img.shields.io/badge/Score-9.7%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-38bdf8?style=flat-square" alt="Score 9.7/10" />
         <br>
         <code>Python</code> • <code>Machine Learning</code> • <code>SOC Metrics</code> • <code>SOAR Dynamics</code>
@@ -126,7 +126,7 @@
 
 ---
 
-### 📌 Engineering Milestones & Future Goals
+### Engineering Milestones & Future Goals
 
 - [x] Architected lossless P2P 500MB+ WebRTC binary chunk streaming engine with backpressure control.
 - [x] Developed disguised 4-digit promo voucher GPS live location radar with real-time satellite imagery.
@@ -139,7 +139,7 @@
 
 ---
 
-### 📬 Connect & Collaborate
+### Connect & Collaborate
 
 <div align="center">
   <a href="https://bogguajaykumar.github.io"><img src="https://img.shields.io/badge/Portfolio-bogguajaykumar.github.io-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
