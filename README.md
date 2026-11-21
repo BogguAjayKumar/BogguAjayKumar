@@ -58,12 +58,12 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://github.com/BogguAjayKumar/HINA-Showcase">HINA — Multimodal Voice & OS Agent</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-8b5cf6?style=flat-square" alt="Score 9.9/10" />
+        <img src="https://img.shields.io/badge/Architecture-Full--Duplex%20Voice%20%7C%20Local%20LLM-8b5cf6?style=flat-square" alt="HINA Architecture" />
         <br>
         <code>Full-Duplex Voice</code> • <code>Multimodal Vision</code> • <code>Multi-LLM Pooling</code> • <code>OS Automation</code>
       </div>
       <br>
-      Full-duplex multimodal AI assistant , engineered with zero framework bloat:
+      Full-duplex multimodal AI assistant, engineered with zero framework bloat:
       <ul>
         <li><b>Barge-In Voice Synthesizer</b>: Real-time conversational interruption using Silero VAD, Faster-Whisper, and British Neural EdgeTTS.</li>
         <li><b>Screen & Camera Perception</b>: Live desktop inspection, code error diagnosis, active window monitoring, and webcam vision.</li>
@@ -74,7 +74,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://github.com/BogguAjayKumar/AegisXAI-Showcase">AegisXAI — Explainable AI for Security Decisions</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.9%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ef4444?style=flat-square" alt="Score 9.9/10" />
+        <img src="https://img.shields.io/badge/Architecture-SHAP%20%7C%20Network%20IDS%20%7C%20Rule%20Synthesis-ef4444?style=flat-square" alt="AegisXAI Architecture" />
         <br>
         <code>Explainable AI (XAI)</code> • <code>SHAP Engine</code> • <code>Network IDS/IPS</code> • <code>Threat Synthesis</code>
       </div>
@@ -92,7 +92,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://github.com/BogguAjayKumar/flavor-crush-showcase">Flavor Crush — Arcade & P2P Engine</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.8%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-e94682?style=flat-square" alt="Score 9.8/10" />
+        <img src="https://img.shields.io/badge/Architecture-WebRTC%20P2P%20%7C%203D%20Flight%20%7C%20Arcade-e94682?style=flat-square" alt="Flavor Crush Architecture" />
         <br>
         <code>WebRTC P2P</code> • <code>C++20</code> • <code>Capacitor Android</code> • <code>GIS Satellite</code>
       </div>
@@ -108,7 +108,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
-        <img src="https://img.shields.io/badge/Score-9.7%20%2F%2010%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-38bdf8?style=flat-square" alt="Score 9.7/10" />
+        <img src="https://img.shields.io/badge/Architecture-ML%20Threat%20Forecasting%20%7C%20SOC%20Analytics-38bdf8?style=flat-square" alt="ProSAFE Architecture" />
         <br>
         <code>Python</code> • <code>Machine Learning</code> • <code>SOC Metrics</code> • <code>SOAR Dynamics</code>
       </div>
@@ -133,6 +133,7 @@
 - [x] Engineered 4-game real-time 2-player multiplayer arena with deterministic AI fallbacks.
 - [x] Built full-duplex multimodal AI assistant (HINA) with barge-in voice, screen perception & multi-LLM pooling.
 - [x] Engineered Explainable AI IDS (AegisXAI) with SHAP decomposition, what-if counterfactuals & Snort/iptables rule synthesis.
+- [x] Built real-time Indian stock market & IPO intelligence platform (StockLens) with technical indicator and news sentiment explainers.
 - [ ] Implement automated packet capture (pcap) inspection tool in Python and C++ for network forensics.
 - [ ] Publish comprehensive writeups on Linux kernel memory management and process namespaces.
 - [ ] Attain advanced offensive security certifications and contribute to open-source threat intelligence.
