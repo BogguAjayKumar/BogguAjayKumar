@@ -107,18 +107,18 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3><a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">ProSAFE — Threat Forecasting Engine</a></h3>
-        <img src="https://img.shields.io/badge/Architecture-ML%20Threat%20Forecasting%20%7C%20SOC%20Analytics-38bdf8?style=flat-square" alt="ProSAFE Architecture" />
+        <h3><a href="https://github.com/BogguAjayKumar/ProSAFE-SOC-Forecasting-Engine">ProSAFE — Threat Forecasting &amp; SOAR Engine</a></h3>
+        <img src="https://img.shields.io/badge/Architecture-XAI%20Forecasting%20%7C%20MITRE%20ATT%26CK%20%7C%20SOAR-38bdf8?style=flat-square" alt="ProSAFE Architecture" />
         <br>
-        <code>Python</code> • <code>Machine Learning</code> • <code>SOC Metrics</code> • <code>SOAR Dynamics</code>
+        <code>FastAPI</code> • <code>Scikit-Learn XAI</code> • <code>psutil Live Sensor</code> • <code>MITRE ATT&amp;CK</code>
       </div>
       <br>
-      Proactive Security Operations Center (SOC) assessment and predictive threat intelligence platform:
+      Proactive Security Operations Center (SOC) forecasting, posture scanning, and automated response platform (<a href="https://github.com/BogguAjayKumar/ProSAFE-Showcase">Architecture Showcase</a>):
       <ul>
-        <li><b>Machine Learning Threat Forecasting</b>: Anticipates incoming multi-stage attack vectors before enterprise perimeter breach.</li>
-        <li><b>Human Analyst Fatigue Modeling</b>: Quantifies cognitive load, triage degradation, and alert fatigue curves in high-volume SOCs.</li>
-        <li><b>Dynamic SOAR Readiness</b>: Real-time automation scoring to calculate optimal playbook transition points.</li>
-        <li><b>Incident Impact Simulator</b>: Mathematical modeling of containment latency vs breach severity.</li>
+        <li><b>Rate-Normalized ML &amp; XAI Forecasting</b>: Predicts +5/10/15m DDoS, Brute Force, Port Scan &amp; APT Exfiltration risk with feature-level driver attribution.</li>
+        <li><b>Live Host Sensor &amp; Posture Scanner</b>: Streams real OS TCP/UDP connections via <code>psutil</code>, ingests Suricata EVE/CSV logs, and scores exposed listening ports.</li>
+        <li><b>Closed-Loop SOAR &amp; Fatigue Dynamics</b>: Playbooks actively suppress 80% of attack flows, drain alert backlogs, and auto-reallocate Tier 1–3 analysts.</li>
+        <li><b>MITRE ATT&amp;CK &amp; Executive Reports</b>: Maps techniques (<code>T1498</code>, <code>T1110</code>, <code>T1046</code>, <code>T1048</code>), dispatches webhooks, and exports printable HTML/PDF &amp; Markdown reports.</li>
       </ul>
     </td>
   </tr>
@@ -134,6 +134,7 @@
 - [x] Built full-duplex multimodal AI assistant (HINA) with barge-in voice, screen perception & multi-LLM pooling.
 - [x] Engineered Explainable AI IDS (AegisXAI) with SHAP decomposition, what-if counterfactuals & Snort/iptables rule synthesis.
 - [x] Built real-time Indian stock market & IPO intelligence platform (StockLens) with technical indicator and news sentiment explainers.
+- [x] Built ProSAFE v2 proactive SOC platform with rate-normalized ML forecasting, XAI drivers, live `psutil` host posture scanning, Suricata log ingestion, MITRE ATT&CK mapping & closed-loop SOAR playbooks.
 - [ ] Implement automated packet capture (pcap) inspection tool in Python and C++ for network forensics.
 - [ ] Publish comprehensive writeups on Linux kernel memory management and process namespaces.
 - [ ] Attain advanced offensive security certifications and contribute to open-source threat intelligence.
